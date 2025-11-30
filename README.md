@@ -47,4 +47,5 @@
 ---
 
 ### 📬 Connect With Me
-lakhangehlot457@gmail.com
+Enail - lakhangehlot457@gmail.com
+LinkedIn - https://www.linkedin.com/in/lakhansingh-dataanalyst/
