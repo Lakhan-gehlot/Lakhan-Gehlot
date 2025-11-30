@@ -77,7 +77,7 @@
 
 ---
 
-## 🔥 **Freight Analyst Experience (Premium Look)**
+## 🔥 **Freight Analyst Experience **
 
 ### 💼 **Emendate — Freight Analyst**
 **I audit freight invoices for:**
@@ -94,7 +94,7 @@ Python + Machine Learning + Power BI.
 
 ---
 
-## 📈 **GitHub Analytics (Animated & Premium)**
+## 📈 **GitHub Analytics **
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-gehlot&show_icons=true&theme=tokyonight&hide_border=true" width="52%">
