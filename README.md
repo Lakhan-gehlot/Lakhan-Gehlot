@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ **Skills (Super-Clean Visual Icons)**
+## ⚡ **Skills **
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,powershell,github,git,vscode,excel" />
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 **Featured Portfolio Projects (Animated Cards)**
+## 🚀 **Featured Portfolio Projects **
 
 ### 🔹 **1. Marketing Campaign Performance Dashboard – Power BI**
 📌 ROI | Conversions | Channel Performance  
