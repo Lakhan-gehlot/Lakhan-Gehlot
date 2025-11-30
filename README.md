@@ -69,21 +69,6 @@ Available inside the repository
 🧰 **Tech Used:**  
 Python • Scikit-Learn • FastAPI • Docker • Pandas • HTML/CSS • Modular Code Architecture
 
-
----
-
-### 🔹 **2. Freight Invoice Audit Automation – Python**
-📌 Detects overbilling, FX mismatch, wrong surcharges  
-📌 Generates audit report in seconds  
-⏳ *In Progress – Repo Coming*
-
----
-
-### 🔹 **3. Freight Anomaly Detection – ML**
-📌 Isolation Forest | LOF | DBSCAN  
-📌 Detects abnormal charge patterns  
-⏳ *In Progress – Repo Coming*
-
 ---
 
 ## 🔥 **Freight Analyst Experience **
