@@ -32,4 +32,122 @@
 - 📊 Passionate about **Data Science, Analytics & Automation**  
 - 🎯 Goal: Become a **Data Scientist / Supply Chain Analytics Specialist**  
 - 🧠 Strong believer in consistency: _“Keep hustling • Keep progressing • Keep faith in the process”_  
-- 📍 Based in **Ahmed**
+- 📍 Based in **Ahmedabad, India**
+
+---
+
+## 🛠 Skills & Tools
+
+### **Analysis & Programming**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, CTEs, Window Functions)
+- Excel (VLOOKUP, IFs, Pivot Tables, Reports)
+
+### **Business Intelligence**
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
+- Data Cleaning • Data Transformation • EDA
+
+### **Data Science Learning**
+- Regression, Classification
+- Time Series Forecasting (SARIMA basics)
+- Anomaly Detection (IF, LOF, DBSCAN)
+
+### **Other Tools**
+- Git & GitHub  
+- Jupyter Notebook  
+- Automation mindset
+
+---
+
+## 🚀 Portfolio Projects (Ongoing)
+
+> I’m actively building real-world freight, logistics & data-science projects.  
+> Repositories will be added here as they are uploaded.
+
+### 📊 **1. Marketing Campaign Performance Dashboard (Power BI)**
+- Channel-wise ROI, conversions, CAC, CTR  
+- Interactive visuals + insights  
+⚡ *Repo coming soon*
+
+### 🚚 **2. Freight Audit Automation Script (Python)**
+- Automates lane-rate validation  
+- Detects duplicate charges, wrong currency, accessorial mismatches  
+⚡ *Repo coming soon*
+
+### 📦 **3. Invoice Anomaly Detection Model**
+- Uses Isolation Forest & LOF  
+- Identifies abnormal freight charges  
+⚡ *Repo coming soon*
+
+### 📁 **4. End-to-End Data Science Projects**
+- EDA → ML Model → Insights → Dashboard  
+⚡ *Coming soon*
+
+---
+
+## 💼 Professional Experience
+
+### **Freight Analyst — Emendate**
+**Clients handled:**  
+- 🧪 *LyondellBasell*  
+- 👓 *Luxottica*
+
+**What I do:**
+- Validate **ocean & air freight invoices**  
+- Check: lane, port, carrier, container type  
+- Compare billed vs contractual rates  
+- Identify:
+  - Overbilling  
+  - Wrong surcharges  
+  - Duplicate charges  
+  - Incorrect FX rate  
+- Support:
+  - Cost recovery  
+  - Dispute note preparation  
+  - Client weekly reporting
+
+**Goal:**  
+Combine freight domain expertise with **data science** to build automated audit products.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-gehlot&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lakhan-gehlot&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-gehlot&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 🧠 Learning Roadmap (2025)
+
+- Python for analytics & automation  
+- Advanced SQL + case studies  
+- Build 5 strong portfolio projects  
+- Learn ML — Regression, Classification, Time Series  
+- Create dashboards for business & supply chain  
+- Freelancing on Upwork, Fiverr & LinkedIn  
+- Improve GitHub & LinkedIn branding weekly
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: **[Lakhan Singh](https://www.linkedin.com/in/lakhansingh-dataanalyst/)**  
+- 🐙 GitHub: **[Lakhan-gehlot](https://github.com/Lakhan-gehlot)**  
+- 📫 Email: **lakhanofficialcontact@gmail.com** *(or your preferred email)*  
+
+---
+
+<p align="center">
+  💙 Thank you for visiting my profile!  
+  <br>⭐ If you like my work, consider starring my repositories.
+</p>
