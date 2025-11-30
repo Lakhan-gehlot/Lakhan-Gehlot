@@ -54,12 +54,21 @@
 
 ---
 
-## 🚀 **Featured Portfolio Projects **
 
-### 🔹 **1. Marketing Campaign Performance Dashboard – Power BI**
-📌 ROI | Conversions | Channel Performance  
-⏳ *In Progress – Repo Coming*  
-<img src="https://github.com/user-attachments/assets/4e7cdb20-dash" width="400"/>
+## 🚀 Featured Projects
+
+### 🔹 Customer Categorizer – Machine Learning Project
+An end-to-end ML system that segments customers using K-Means, with a FastAPI web app, modular pipeline, Docker deployment, and a full PPT for presentation.
+
+🔗 **GitHub Repository:**  
+https://github.com/Lakhan-gehlot/customer-categorizer-ml
+
+📄 **Project PPT:**  
+Available inside the repository
+
+🧰 **Tech Used:**  
+Python • Scikit-Learn • FastAPI • Docker • Pandas • HTML/CSS • Modular Code Architecture
+
 
 ---
 
