@@ -1,142 +1,167 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lakhan-gehlot/Lakhan-Gehlot/main/Bnner.jpg.png" alt="Lakhan Singh GitHub Banner" width="100%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Data+Scientist;Freight+Analyst+at+Emendate;Machine+Learning+Practitioner;Power+BI+Developer;Python+%7C+SQL+%7C+ML;Welcome+to+my+GitHub+Profile!" />
+  <img src="Bnner.jpg.png" alt="Lakhan Singh | Data & Freight Analytics" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Lakhan Singh</span></h1>
-<h3 align="center">Data Scientist | Freight Analyst at Emendate | Machine Learning • Power BI • Python</h3>
+<h1 align="center">Hi, I'm Lakhan Singh 👋</h1>
 
 <p align="center">
+  🚚 Freight Analyst @ Emendate &nbsp;|&nbsp; 📊 Aspiring Data Scientist &nbsp;|&nbsp; 🧠 Self-taught Learner
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lakhan-gehlot?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lakhan-gehlot?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lakhan-gehlot">
+    <img src="https://komarev.com/ghpvc/?username=Lakhan-gehlot&label=Profile%20Views&style=flat" alt="Profile views" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/lakhansingh-dataanalyst/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakhan%20Singh-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lakhan%20Singh-blue?logo=linkedin&style=flat" alt="LinkedIn" />
   </a>
-  <a href="mailto:lakhansingh1099@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Lakhan-gehlot&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
-## 🛠 Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🧑‍💻 About Me
 
-**Data & ML:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**BI / Tools:**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
----
-
-## 🚀 Featured Projects
-
-### 🔹 Freight Cost Audit & Savings Detection (Flagship Project)
-**Tech:** Python, Pandas, Power BI  
-**Highlights:** Overcharge detection, cost anomalies, savings dashboard  
-🔗 *Coming soon — currently building real business case*
+- 🔭 **Current role:** Freight Analyst at **Emendate**
+- 🚢 I audit **ocean & air freight shipments** for global clients like **LyondellBasell** & **Luxottica**
+- 🎯 Goal: Move into a **Data Scientist / Supply Chain Analytics** role
+- 🌱 Currently leveling up in:
+  - Python for Data Analysis
+  - SQL & Power BI
+  - Machine Learning fundamentals
+- 🧠 Mindset: _“Keep hustling, keep progressing, be consistent with a focused mind.”_
+- 📍 Based in **Ahmedabad, India**
 
 ---
 
-### 🔹 Marketing Campaign Performance Dashboard
-**Tech:** Power BI, DAX  
-**Highlights:** ROI analysis, CTR tracking, campaign segmentation  
-🔗 *Uploading soon*
+## 🎯 What I’m Working On
+
+- Building a **Data & Freight Analytics Portfolio** here on GitHub  
+- Creating projects around:
+  - 🧾 **Freight audit & logistics cost optimization**
+  - 📈 **Marketing & business performance dashboards**
+  - ⚙️ **Automation for repetitive audit checks using Python**
 
 ---
 
-### 🔹 Telecom Customer Churn Analysis
-**Tech:** Python, ML (Logistic Regression, Random Forest)  
-📈 Predicts churn + explores top drivers  
-🔗 *Repo link coming soon*
+## 🛠 Tech & Tools
 
-## 🚀 About Me
-- 📌 **Freight Analyst at Emendate** — working with clients like *LyondellBasell* & *Luxottica*  
-- 📦 Specializing in **Freight Invoice Auditing, Cost Anomaly Detection & Supply Chain Analytics**  
-- 🧠 Learning & building expertise in **Machine Learning + Power BI Dashboards**  
-- 🎯 Goal: Become a **Full-Stack Data Scientist** (ML + Analytics + Business Solutions)  
-- 🤝 Open to **freelance projects**, remote work, and collaborations in data & supply chain  
+**Languages & Analysis**
 
----
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Aggregations, Window Functions)
+- Excel (Lookups, Pivot Tables, Dashboards)
 
-## 🛠️ Tech Stack & Tools
+**BI & Visualization**
 
-**Languages:**  
-`Python` • `SQL` • `DAX`  
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
 
-**Data / ML Libraries:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `scikit-learn`  
+**Data Science Fundamentals**
 
-**BI & Databases:**  
-`Power BI` • `Excel` • `MySQL`  
+- Descriptive Statistics
+- Regression & Classification (learning)
+- Time Series basics (learning)
 
-**Tools:**  
-`Jupyter Notebook` • `VS Code` • `Git & GitHub`  
+**Other**
+
+- Git & GitHub
+- Jupyter Notebook
 
 ---
 
-## 📌 Featured Data Science Projects
+## 📂 Portfolio Highlight (In Progress)
 
-### 🔷 1. 📦 Freight Cost Audit & Savings Detection (Coming Soon — a flagship project)
-**Real-world supply chain analytics project** inspired by my work.  
-✔ Detect overcharges  
-✔ Compare contract rates vs invoice  
-✔ Identify carrier mistakes  
-✔ Visual freight savings dashboard  
-**Tech:** Python, Power BI, anomaly detection  
+> This section will grow as I push more projects to GitHub.
 
----
+- 📊 **Marketing Campaign Performance Dashboard (Power BI)**  
+  Analyze campaign-wise ROI, conversions, and channel performance with interactive visuals.
 
-### 🔷 2. 📊 Marketing Campaign Performance Dashboard (Power BI)
-**End-to-end BI project**  
-✔ Campaign ROI analysis  
-✔ Cost per lead trends  
-✔ Audience segmentation  
-✔ Actionable business insights  
-**Tech:** Power BI, DAX, Excel  
+- 🚚 **Freight Audit Checker (Python + Excel)**  
+  Script to validate freight invoices (route, carrier, lane, charge type) vs agreed contracts.
+
+- 🧾 **Invoice Anomaly Detection (Python)**  
+  Detect abnormal freight charges or currency mismatches using rules + ML approach.
+
+_(Repos for these projects will be added soon.)_
 
 ---
 
-### 🔷 3. 📱 Telecom Customer Churn Analysis
-📌 GitHub: *Add link when ready*  
-✔ Exploratory Data Analysis  
-✔ Feature engineering  
-✔ ML Model (Random Forest / Logistic Regression)  
-✔ Business insights for retention  
+## 💼 Experience Snapshot
 
----
+### Freight Analyst @ Emendate  
+**Clients handled:**  
+- 🧪 **LyondellBasell** – global chemical & polymer shipments  
+- 👓 **Luxottica** – eyewear & retail distribution
 
-## 📚 Learning & Focus Areas  
-- **Supervised ML**: Regression, Classification, Model Evaluation  
-- **Time Series Forecasting**: Demand & Freight Trend Prediction  
-- **Freight Audit Analytics**: Cost anomalies & carrier behavior  
-- **BI Storytelling**: Power BI dashboards for business users  
-- **Clean Code & Structure**: Modular notebooks, reusable scripts  
+**What I do:**
 
----
+- Audit **ocean & air freight invoices** against agreed contracts & tariffs  
+- Verify:
+  - Lane, port, carrier, container type
+  - Agreed rates vs billed rates
+  - Surcharges, FSC, accessorials, and currency
+- Identify:
+  - Overbilling & duplicate charges
+  - Wrong currency / exchange rate application
+  - Incorrect contract mapping
+- Support **cost recovery**, dispute notes, and client reporting
+
+I want to combine this **domain expertise in freight & logistics** with **data science** to:
+
+- Build automated audit systems  
+- Create dashboards for cost leakage & savings tracking  
+- Predict freight cost trends & anomalies
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakhan-gehlot&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-gehlot&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lakhan-gehlot&show_icons=true&theme=transparent" 
+    alt="Lakhan's GitHub stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-gehlot&theme=tokyonight&hide_border=true" height="170px"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Lakhan-gehlot&theme=transparent&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
-## 📬 Connect With Me  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/lakhansingh-dataanalyst/  
-- 📧 **Email:** lakhansingh1099@gmail.com  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-gehlot&layout=compact&theme=transparent" 
+    alt="Top Languages" 
+  />
+</p>
 
-<p align="center">⭐ If you like my work, consider following my GitHub — it motivates me to keep building!</p>
+---
 
+## 🧠 Learning Roadmap (Next 6–12 Months)
+
+- ✅ Strengthen Python for data analysis & automation
+- ✅ Master SQL for complex queries & reporting
+- 🔁 Build 3–5 **end-to-end data projects** (EDA → insights → dashboard / model)
+- 🔁 Learn and apply:
+  - Regression, Classification
+  - Time Series for forecasting
+  - Model evaluation & deployment basics
+- 🔁 Publish learnings on **LinkedIn** & **GitHub**
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [Lakhan Singh](https://www.linkedin.com/in/lakhansingh-dataanalyst/)
+- 🐙 GitHub: [Lakhan-gehlot](https://github.com/Lakhan-gehlot)
+- 📫 Reach me at: **lakhangehlot457@gmail.com** 
+
+> 🚀 If you’re hiring for **Data Analyst / Junior Data Scientist / Supply Chain Analytics**,  
+> I’d love to connect and explore opportunities.
