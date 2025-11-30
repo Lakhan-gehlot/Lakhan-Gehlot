@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Bnner.jpg" alt="Lakhan Singh GitHub Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Lakhan Singh</span></h1>
 <h3 align="center">Data Scientist | Freight Analyst at Emendate | Machine Learning • Power BI • Python</h3>
 
